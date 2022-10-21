@@ -1,0 +1,69 @@
+body{
+    background-image: url(/images/backimg.webp);
+    background-size: cover;
+}
+#form
+{
+    width: 700px;
+    height: 500px;
+    background-color: black;
+    margin: auto;
+    padding: 20px;
+    opacity: 0.8;
+}
+#form h3
+{
+    border-bottom: 2px solid rgb(72, 89, 72);
+    width: 300px;
+    padding: 5px;
+}
+#input1 #input-group
+{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: black;
+    color: white;
+}
+#input2 #input-group
+{
+    width: 190px;
+    margin: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: black;
+    color: white;
+}
+#input3 #input-group
+{
+
+    margin: 5px;
+
+}
+#input4 #input-group
+{
+    width: 300px;
+    margin: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: black;
+    color: white;
+}
+#input6 #input-group
+{
+    width: 200px;
+    margin: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    background: black;
+    color: white;
+}
